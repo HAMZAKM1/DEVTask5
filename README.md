@@ -35,3 +35,6 @@ Deploy and manage applications in Kubernetes using Minikube.
 
 ### Nginx Output in Browser
 ![Nginx](screenshots/nginx-browser.png)   this my  README.md   but not showing  github 
+
+![Nginx](screenshots/nginx-browser.png)
+
